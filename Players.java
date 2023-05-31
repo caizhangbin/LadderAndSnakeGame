@@ -4,7 +4,6 @@
  * 
  *Assignment 1
  * 
- * @author 1. Sami Ibrahim ID: 40156134 2. Zhangbin Cai ID:40165425
  *This program is a version of Ladder And Snake game. It supports 2 - 4 players (named player#1 -4). At the beginning of the game, each player should roll the dice (press "enter" or any bottom e.x. "a", "d", "t", etc. to roll the dice) to determine their order of playing. The higher dice number they get, the earlier they will play. The one who reaches the end of the board (location 100) will be the winner. In the board there are snakes and ladders which will change players locations by moving down or up.
  *
  ****to roll the dice, please press Enter directly or any bottom + Enter*********
